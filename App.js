@@ -14,7 +14,7 @@ export default class App extends Component {
   }
 
   componentDidMount() {
-    this.searchYT('chonkers');
+    this.searchYT('cute animals');
   }
 
   onPressSearch = term => {
