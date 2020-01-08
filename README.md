@@ -3,6 +3,11 @@
 An integrated video search mobile application that pins the top 5 results under a simple user interface.
 
 
+
+<img src="./assets/run_through.gif">
+
+
+
 ## Built With
 
 * [React Native](https://facebook.github.io/react-native/) 
