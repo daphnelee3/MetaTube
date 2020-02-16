@@ -4,7 +4,7 @@ An integrated video search mobile application that pins the top 5 results under 
 
 
 
-<img src="./assets/run_through.gif" height="300" width="200">
+<img src="./assets/run_through.gif" height="475" width="300">
 
 
 
